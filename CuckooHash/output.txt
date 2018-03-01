@@ -1,0 +1,2250 @@
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 2500
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 1864
+ Average Primary Hits: 1.3412
+  Maximum Hits to a Primary Slot = 4
+  Total Number of Ejections = 3
+  Maximum Number of Ejections in a single insertion = 1
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 2500
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 1856
+ Average Primary Hits: 1.34698
+  Maximum Hits to a Primary Slot = 5
+  Total Number of Ejections = 4
+  Maximum Number of Ejections in a single insertion = 2
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 2500
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 1888
+ Average Primary Hits: 1.32415
+  Maximum Hits to a Primary Slot = 5
+  Total Number of Ejections = 2
+  Maximum Number of Ejections in a single insertion = 1
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 2500
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 1880
+ Average Primary Hits: 1.32979
+  Maximum Hits to a Primary Slot = 5
+  Total Number of Ejections = 0
+  Maximum Number of Ejections in a single insertion = 0
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 2500
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 1856
+ Average Primary Hits: 1.34698
+  Maximum Hits to a Primary Slot = 4
+  Total Number of Ejections = 2
+  Maximum Number of Ejections in a single insertion = 1
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 2500
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 1857
+ Average Primary Hits: 1.34626
+  Maximum Hits to a Primary Slot = 5
+  Total Number of Ejections = 5
+  Maximum Number of Ejections in a single insertion = 3
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 2500
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 1885
+ Average Primary Hits: 1.32626
+  Maximum Hits to a Primary Slot = 9
+  Total Number of Ejections = 14
+  Maximum Number of Ejections in a single insertion = 5
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 2500
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 1871
+ Average Primary Hits: 1.33618
+  Maximum Hits to a Primary Slot = 4
+  Total Number of Ejections = 2
+  Maximum Number of Ejections in a single insertion = 1
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 2500
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 1856
+ Average Primary Hits: 1.34698
+  Maximum Hits to a Primary Slot = 6
+  Total Number of Ejections = 6
+  Maximum Number of Ejections in a single insertion = 2
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 2500
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 1869
+ Average Primary Hits: 1.33761
+  Maximum Hits to a Primary Slot = 4
+  Total Number of Ejections = 2
+  Maximum Number of Ejections in a single insertion = 1
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 3000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2103
+ Average Primary Hits: 1.42653
+  Maximum Hits to a Primary Slot = 5
+  Total Number of Ejections = 19
+  Maximum Number of Ejections in a single insertion = 5
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 3000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2119
+ Average Primary Hits: 1.41576
+  Maximum Hits to a Primary Slot = 5
+  Total Number of Ejections = 16
+  Maximum Number of Ejections in a single insertion = 2
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 3000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2101
+ Average Primary Hits: 1.42789
+  Maximum Hits to a Primary Slot = 8
+  Total Number of Ejections = 15
+  Maximum Number of Ejections in a single insertion = 4
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 3000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2112
+ Average Primary Hits: 1.42045
+  Maximum Hits to a Primary Slot = 5
+  Total Number of Ejections = 13
+  Maximum Number of Ejections in a single insertion = 2
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 3000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2114
+ Average Primary Hits: 1.41911
+  Maximum Hits to a Primary Slot = 5
+  Total Number of Ejections = 10
+  Maximum Number of Ejections in a single insertion = 2
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 3000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2106
+ Average Primary Hits: 1.4245
+  Maximum Hits to a Primary Slot = 5
+  Total Number of Ejections = 22
+  Maximum Number of Ejections in a single insertion = 3
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 3000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2109
+ Average Primary Hits: 1.42248
+  Maximum Hits to a Primary Slot = 7
+  Total Number of Ejections = 18
+  Maximum Number of Ejections in a single insertion = 3
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 3000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2121
+ Average Primary Hits: 1.41443
+  Maximum Hits to a Primary Slot = 10
+  Total Number of Ejections = 17
+  Maximum Number of Ejections in a single insertion = 4
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 3000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2115
+ Average Primary Hits: 1.41844
+  Maximum Hits to a Primary Slot = 6
+  Total Number of Ejections = 20
+  Maximum Number of Ejections in a single insertion = 3
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 3000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2108
+ Average Primary Hits: 1.42315
+  Maximum Hits to a Primary Slot = 8
+  Total Number of Ejections = 8
+  Maximum Number of Ejections in a single insertion = 2
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 3500
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2266
+ Average Primary Hits: 1.54457
+  Maximum Hits to a Primary Slot = 6
+  Total Number of Ejections = 46
+  Maximum Number of Ejections in a single insertion = 4
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 3500
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2299
+ Average Primary Hits: 1.5224
+  Maximum Hits to a Primary Slot = 5
+  Total Number of Ejections = 58
+  Maximum Number of Ejections in a single insertion = 3
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 3500
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2275
+ Average Primary Hits: 1.53846
+  Maximum Hits to a Primary Slot = 7
+  Total Number of Ejections = 46
+  Maximum Number of Ejections in a single insertion = 4
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 3500
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2289
+ Average Primary Hits: 1.52905
+  Maximum Hits to a Primary Slot = 6
+  Total Number of Ejections = 52
+  Maximum Number of Ejections in a single insertion = 3
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 3500
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2329
+ Average Primary Hits: 1.50279
+  Maximum Hits to a Primary Slot = 8
+  Total Number of Ejections = 47
+  Maximum Number of Ejections in a single insertion = 4
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 3500
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2276
+ Average Primary Hits: 1.53779
+  Maximum Hits to a Primary Slot = 7
+  Total Number of Ejections = 62
+  Maximum Number of Ejections in a single insertion = 4
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 3500
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2263
+ Average Primary Hits: 1.54662
+  Maximum Hits to a Primary Slot = 8
+  Total Number of Ejections = 54
+  Maximum Number of Ejections in a single insertion = 6
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 3500
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2299
+ Average Primary Hits: 1.5224
+  Maximum Hits to a Primary Slot = 8
+  Total Number of Ejections = 69
+  Maximum Number of Ejections in a single insertion = 4
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 3500
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2283
+ Average Primary Hits: 1.53307
+  Maximum Hits to a Primary Slot = 7
+  Total Number of Ejections = 73
+  Maximum Number of Ejections in a single insertion = 4
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 3500
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2266
+ Average Primary Hits: 1.54457
+  Maximum Hits to a Primary Slot = 6
+  Total Number of Ejections = 41
+  Maximum Number of Ejections in a single insertion = 3
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 4000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2422
+ Average Primary Hits: 1.65153
+  Maximum Hits to a Primary Slot = 13
+  Total Number of Ejections = 123
+  Maximum Number of Ejections in a single insertion = 5
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 4000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2389
+ Average Primary Hits: 1.67434
+  Maximum Hits to a Primary Slot = 9
+  Total Number of Ejections = 195
+  Maximum Number of Ejections in a single insertion = 8
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 4000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2404
+ Average Primary Hits: 1.66389
+  Maximum Hits to a Primary Slot = 6
+  Total Number of Ejections = 170
+  Maximum Number of Ejections in a single insertion = 5
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 4000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2418
+ Average Primary Hits: 1.65426
+  Maximum Hits to a Primary Slot = 9
+  Total Number of Ejections = 157
+  Maximum Number of Ejections in a single insertion = 6
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 4000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2394
+ Average Primary Hits: 1.67084
+  Maximum Hits to a Primary Slot = 17
+  Total Number of Ejections = 198
+  Maximum Number of Ejections in a single insertion = 12
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 4000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2359
+ Average Primary Hits: 1.69563
+  Maximum Hits to a Primary Slot = 9
+  Total Number of Ejections = 189
+  Maximum Number of Ejections in a single insertion = 8
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 4000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2405
+ Average Primary Hits: 1.6632
+  Maximum Hits to a Primary Slot = 8
+  Total Number of Ejections = 185
+  Maximum Number of Ejections in a single insertion = 7
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 4000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2375
+ Average Primary Hits: 1.68421
+  Maximum Hits to a Primary Slot = 9
+  Total Number of Ejections = 191
+  Maximum Number of Ejections in a single insertion = 7
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 4000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2469
+ Average Primary Hits: 1.62009
+  Maximum Hits to a Primary Slot = 8
+  Total Number of Ejections = 170
+  Maximum Number of Ejections in a single insertion = 7
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 4000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2355
+ Average Primary Hits: 1.69851
+  Maximum Hits to a Primary Slot = 9
+  Total Number of Ejections = 206
+  Maximum Number of Ejections in a single insertion = 10
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 4500
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2399
+ Average Primary Hits: 1.87578
+  Maximum Hits to a Primary Slot = 18
+  Total Number of Ejections = 683
+  Maximum Number of Ejections in a single insertion = 16
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 4500
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2432
+ Average Primary Hits: 1.85033
+  Maximum Hits to a Primary Slot = 9
+  Total Number of Ejections = 703
+  Maximum Number of Ejections in a single insertion = 14
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 4500
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2446
+ Average Primary Hits: 1.83974
+  Maximum Hits to a Primary Slot = 13
+  Total Number of Ejections = 731
+  Maximum Number of Ejections in a single insertion = 15
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 4373
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2453
+ Average Primary Hits: 1.78272
+  Maximum Hits to a Primary Slot = 21
+  Total Number of Ejections = 476
+  Maximum Number of Ejections in a single insertion = 20
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 4500
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2433
+ Average Primary Hits: 1.84957
+  Maximum Hits to a Primary Slot = 13
+  Total Number of Ejections = 705
+  Maximum Number of Ejections in a single insertion = 15
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 4443
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2510
+ Average Primary Hits: 1.77012
+  Maximum Hits to a Primary Slot = 14
+  Total Number of Ejections = 621
+  Maximum Number of Ejections in a single insertion = 20
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 4500
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2472
+ Average Primary Hits: 1.82039
+  Maximum Hits to a Primary Slot = 28
+  Total Number of Ejections = 699
+  Maximum Number of Ejections in a single insertion = 15
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 4500
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2500
+ Average Primary Hits: 1.8
+  Maximum Hits to a Primary Slot = 15
+  Total Number of Ejections = 674
+  Maximum Number of Ejections in a single insertion = 16
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 4500
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2442
+ Average Primary Hits: 1.84275
+  Maximum Hits to a Primary Slot = 19
+  Total Number of Ejections = 700
+  Maximum Number of Ejections in a single insertion = 18
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 5003
+  Size = 4500
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 2502
+ Average Primary Hits: 1.79856
+  Maximum Hits to a Primary Slot = 19
+  Total Number of Ejections = 623
+  Maximum Number of Ejections in a single insertion = 13
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 5000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 3755
+ Average Primary Hits: 1.33156
+  Maximum Hits to a Primary Slot = 9
+  Total Number of Ejections = 20
+  Maximum Number of Ejections in a single insertion = 5
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 5000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 3736
+ Average Primary Hits: 1.33833
+  Maximum Hits to a Primary Slot = 14
+  Total Number of Ejections = 19
+  Maximum Number of Ejections in a single insertion = 8
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 5000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 3733
+ Average Primary Hits: 1.33941
+  Maximum Hits to a Primary Slot = 6
+  Total Number of Ejections = 9
+  Maximum Number of Ejections in a single insertion = 4
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 5000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 3705
+ Average Primary Hits: 1.34953
+  Maximum Hits to a Primary Slot = 4
+  Total Number of Ejections = 6
+  Maximum Number of Ejections in a single insertion = 1
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 5000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 3768
+ Average Primary Hits: 1.32696
+  Maximum Hits to a Primary Slot = 6
+  Total Number of Ejections = 3
+  Maximum Number of Ejections in a single insertion = 1
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 5000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 3773
+ Average Primary Hits: 1.32521
+  Maximum Hits to a Primary Slot = 5
+  Total Number of Ejections = 5
+  Maximum Number of Ejections in a single insertion = 1
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 5000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 3699
+ Average Primary Hits: 1.35172
+  Maximum Hits to a Primary Slot = 7
+  Total Number of Ejections = 6
+  Maximum Number of Ejections in a single insertion = 3
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 5000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 3747
+ Average Primary Hits: 1.3344
+  Maximum Hits to a Primary Slot = 11
+  Total Number of Ejections = 10
+  Maximum Number of Ejections in a single insertion = 6
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 5000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 3779
+ Average Primary Hits: 1.3231
+  Maximum Hits to a Primary Slot = 5
+  Total Number of Ejections = 7
+  Maximum Number of Ejections in a single insertion = 2
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 5000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 3778
+ Average Primary Hits: 1.32345
+  Maximum Hits to a Primary Slot = 5
+  Total Number of Ejections = 5
+  Maximum Number of Ejections in a single insertion = 2
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 6000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4171
+ Average Primary Hits: 1.4385
+  Maximum Hits to a Primary Slot = 7
+  Total Number of Ejections = 32
+  Maximum Number of Ejections in a single insertion = 3
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 6000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4190
+ Average Primary Hits: 1.43198
+  Maximum Hits to a Primary Slot = 6
+  Total Number of Ejections = 32
+  Maximum Number of Ejections in a single insertion = 2
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 6000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4201
+ Average Primary Hits: 1.42823
+  Maximum Hits to a Primary Slot = 7
+  Total Number of Ejections = 25
+  Maximum Number of Ejections in a single insertion = 4
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 6000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4177
+ Average Primary Hits: 1.43644
+  Maximum Hits to a Primary Slot = 9
+  Total Number of Ejections = 34
+  Maximum Number of Ejections in a single insertion = 4
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 6000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4186
+ Average Primary Hits: 1.43335
+  Maximum Hits to a Primary Slot = 6
+  Total Number of Ejections = 27
+  Maximum Number of Ejections in a single insertion = 3
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 6000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4272
+ Average Primary Hits: 1.40449
+  Maximum Hits to a Primary Slot = 6
+  Total Number of Ejections = 49
+  Maximum Number of Ejections in a single insertion = 3
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 6000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4199
+ Average Primary Hits: 1.42891
+  Maximum Hits to a Primary Slot = 14
+  Total Number of Ejections = 33
+  Maximum Number of Ejections in a single insertion = 8
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 6000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4196
+ Average Primary Hits: 1.42993
+  Maximum Hits to a Primary Slot = 6
+  Total Number of Ejections = 26
+  Maximum Number of Ejections in a single insertion = 4
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 6000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4226
+ Average Primary Hits: 1.41978
+  Maximum Hits to a Primary Slot = 11
+  Total Number of Ejections = 32
+  Maximum Number of Ejections in a single insertion = 5
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 6000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4151
+ Average Primary Hits: 1.44543
+  Maximum Hits to a Primary Slot = 5
+  Total Number of Ejections = 18
+  Maximum Number of Ejections in a single insertion = 2
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 7000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4580
+ Average Primary Hits: 1.52838
+  Maximum Hits to a Primary Slot = 15
+  Total Number of Ejections = 120
+  Maximum Number of Ejections in a single insertion = 8
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 7000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4610
+ Average Primary Hits: 1.51844
+  Maximum Hits to a Primary Slot = 8
+  Total Number of Ejections = 88
+  Maximum Number of Ejections in a single insertion = 4
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 7000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4466
+ Average Primary Hits: 1.5674
+  Maximum Hits to a Primary Slot = 6
+  Total Number of Ejections = 130
+  Maximum Number of Ejections in a single insertion = 4
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 7000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4539
+ Average Primary Hits: 1.54219
+  Maximum Hits to a Primary Slot = 9
+  Total Number of Ejections = 87
+  Maximum Number of Ejections in a single insertion = 6
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 7000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4558
+ Average Primary Hits: 1.53576
+  Maximum Hits to a Primary Slot = 7
+  Total Number of Ejections = 118
+  Maximum Number of Ejections in a single insertion = 3
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 7000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4521
+ Average Primary Hits: 1.54833
+  Maximum Hits to a Primary Slot = 11
+  Total Number of Ejections = 101
+  Maximum Number of Ejections in a single insertion = 6
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 7000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4554
+ Average Primary Hits: 1.53711
+  Maximum Hits to a Primary Slot = 7
+  Total Number of Ejections = 101
+  Maximum Number of Ejections in a single insertion = 5
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 7000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4525
+ Average Primary Hits: 1.54696
+  Maximum Hits to a Primary Slot = 17
+  Total Number of Ejections = 85
+  Maximum Number of Ejections in a single insertion = 11
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 7000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4584
+ Average Primary Hits: 1.52705
+  Maximum Hits to a Primary Slot = 9
+  Total Number of Ejections = 97
+  Maximum Number of Ejections in a single insertion = 6
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 7000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4584
+ Average Primary Hits: 1.52705
+  Maximum Hits to a Primary Slot = 5
+  Total Number of Ejections = 83
+  Maximum Number of Ejections in a single insertion = 3
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 8000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4817
+ Average Primary Hits: 1.66078
+  Maximum Hits to a Primary Slot = 8
+  Total Number of Ejections = 347
+  Maximum Number of Ejections in a single insertion = 7
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 8000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4800
+ Average Primary Hits: 1.66667
+  Maximum Hits to a Primary Slot = 22
+  Total Number of Ejections = 379
+  Maximum Number of Ejections in a single insertion = 7
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 8000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4870
+ Average Primary Hits: 1.64271
+  Maximum Hits to a Primary Slot = 12
+  Total Number of Ejections = 390
+  Maximum Number of Ejections in a single insertion = 10
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 8000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4747
+ Average Primary Hits: 1.68527
+  Maximum Hits to a Primary Slot = 16
+  Total Number of Ejections = 390
+  Maximum Number of Ejections in a single insertion = 8
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 8000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4888
+ Average Primary Hits: 1.63666
+  Maximum Hits to a Primary Slot = 11
+  Total Number of Ejections = 337
+  Maximum Number of Ejections in a single insertion = 7
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 8000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4780
+ Average Primary Hits: 1.67364
+  Maximum Hits to a Primary Slot = 15
+  Total Number of Ejections = 395
+  Maximum Number of Ejections in a single insertion = 15
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 8000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4903
+ Average Primary Hits: 1.63165
+  Maximum Hits to a Primary Slot = 12
+  Total Number of Ejections = 344
+  Maximum Number of Ejections in a single insertion = 9
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 8000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4779
+ Average Primary Hits: 1.67399
+  Maximum Hits to a Primary Slot = 11
+  Total Number of Ejections = 367
+  Maximum Number of Ejections in a single insertion = 7
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 8000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4777
+ Average Primary Hits: 1.67469
+  Maximum Hits to a Primary Slot = 14
+  Total Number of Ejections = 384
+  Maximum Number of Ejections in a single insertion = 12
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 8000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4841
+ Average Primary Hits: 1.65255
+  Maximum Hits to a Primary Slot = 9
+  Total Number of Ejections = 374
+  Maximum Number of Ejections in a single insertion = 7
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 9000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 5000
+ Average Primary Hits: 1.8
+  Maximum Hits to a Primary Slot = 21
+  Total Number of Ejections = 1428
+  Maximum Number of Ejections in a single insertion = 16
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 8990
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4976
+ Average Primary Hits: 1.80667
+  Maximum Hits to a Primary Slot = 15
+  Total Number of Ejections = 1283
+  Maximum Number of Ejections in a single insertion = 20
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 9000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4996
+ Average Primary Hits: 1.80144
+  Maximum Hits to a Primary Slot = 25
+  Total Number of Ejections = 1419
+  Maximum Number of Ejections in a single insertion = 17
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 8913
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4948
+ Average Primary Hits: 1.80133
+  Maximum Hits to a Primary Slot = 16
+  Total Number of Ejections = 1252
+  Maximum Number of Ejections in a single insertion = 20
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 8869
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4990
+ Average Primary Hits: 1.77735
+  Maximum Hits to a Primary Slot = 14
+  Total Number of Ejections = 1124
+  Maximum Number of Ejections in a single insertion = 20
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 8974
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4995
+ Average Primary Hits: 1.7966
+  Maximum Hits to a Primary Slot = 27
+  Total Number of Ejections = 1256
+  Maximum Number of Ejections in a single insertion = 20
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 9000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4973
+ Average Primary Hits: 1.80977
+  Maximum Hits to a Primary Slot = 19
+  Total Number of Ejections = 1515
+  Maximum Number of Ejections in a single insertion = 19
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 9000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 5022
+ Average Primary Hits: 1.79211
+  Maximum Hits to a Primary Slot = 12
+  Total Number of Ejections = 1310
+  Maximum Number of Ejections in a single insertion = 19
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 8943
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 4966
+ Average Primary Hits: 1.80085
+  Maximum Hits to a Primary Slot = 20
+  Total Number of Ejections = 1336
+  Maximum Number of Ejections in a single insertion = 20
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 10037
+  Size = 8934
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 5021
+ Average Primary Hits: 1.77933
+  Maximum Hits to a Primary Slot = 15
+  Total Number of Ejections = 1248
+  Maximum Number of Ejections in a single insertion = 20
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 10000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 7510
+ Average Primary Hits: 1.33156
+  Maximum Hits to a Primary Slot = 6
+  Total Number of Ejections = 10
+  Maximum Number of Ejections in a single insertion = 3
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 10000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 7509
+ Average Primary Hits: 1.33174
+  Maximum Hits to a Primary Slot = 9
+  Total Number of Ejections = 16
+  Maximum Number of Ejections in a single insertion = 4
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 10000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 7467
+ Average Primary Hits: 1.33923
+  Maximum Hits to a Primary Slot = 5
+  Total Number of Ejections = 6
+  Maximum Number of Ejections in a single insertion = 1
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 10000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 7562
+ Average Primary Hits: 1.3224
+  Maximum Hits to a Primary Slot = 9
+  Total Number of Ejections = 15
+  Maximum Number of Ejections in a single insertion = 4
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 10000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 7522
+ Average Primary Hits: 1.32943
+  Maximum Hits to a Primary Slot = 7
+  Total Number of Ejections = 10
+  Maximum Number of Ejections in a single insertion = 4
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 10000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 7491
+ Average Primary Hits: 1.33494
+  Maximum Hits to a Primary Slot = 5
+  Total Number of Ejections = 7
+  Maximum Number of Ejections in a single insertion = 1
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 10000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 7475
+ Average Primary Hits: 1.33779
+  Maximum Hits to a Primary Slot = 6
+  Total Number of Ejections = 11
+  Maximum Number of Ejections in a single insertion = 2
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 10000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 7511
+ Average Primary Hits: 1.33138
+  Maximum Hits to a Primary Slot = 7
+  Total Number of Ejections = 17
+  Maximum Number of Ejections in a single insertion = 3
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 10000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 7576
+ Average Primary Hits: 1.31996
+  Maximum Hits to a Primary Slot = 5
+  Total Number of Ejections = 4
+  Maximum Number of Ejections in a single insertion = 1
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 10000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 7500
+ Average Primary Hits: 1.33333
+  Maximum Hits to a Primary Slot = 6
+  Total Number of Ejections = 10
+  Maximum Number of Ejections in a single insertion = 1
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 12000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 8427
+ Average Primary Hits: 1.42399
+  Maximum Hits to a Primary Slot = 7
+  Total Number of Ejections = 64
+  Maximum Number of Ejections in a single insertion = 5
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 12000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 8385
+ Average Primary Hits: 1.43113
+  Maximum Hits to a Primary Slot = 9
+  Total Number of Ejections = 55
+  Maximum Number of Ejections in a single insertion = 4
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 12000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 8376
+ Average Primary Hits: 1.43266
+  Maximum Hits to a Primary Slot = 6
+  Total Number of Ejections = 36
+  Maximum Number of Ejections in a single insertion = 2
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 12000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 8400
+ Average Primary Hits: 1.42857
+  Maximum Hits to a Primary Slot = 7
+  Total Number of Ejections = 70
+  Maximum Number of Ejections in a single insertion = 3
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 12000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 8418
+ Average Primary Hits: 1.42552
+  Maximum Hits to a Primary Slot = 9
+  Total Number of Ejections = 60
+  Maximum Number of Ejections in a single insertion = 5
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 12000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 8448
+ Average Primary Hits: 1.42045
+  Maximum Hits to a Primary Slot = 10
+  Total Number of Ejections = 55
+  Maximum Number of Ejections in a single insertion = 7
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 12000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 8368
+ Average Primary Hits: 1.43403
+  Maximum Hits to a Primary Slot = 7
+  Total Number of Ejections = 71
+  Maximum Number of Ejections in a single insertion = 4
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 12000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 8325
+ Average Primary Hits: 1.44144
+  Maximum Hits to a Primary Slot = 7
+  Total Number of Ejections = 44
+  Maximum Number of Ejections in a single insertion = 3
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 12000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 8396
+ Average Primary Hits: 1.42925
+  Maximum Hits to a Primary Slot = 7
+  Total Number of Ejections = 59
+  Maximum Number of Ejections in a single insertion = 3
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 12000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 8416
+ Average Primary Hits: 1.42586
+  Maximum Hits to a Primary Slot = 7
+  Total Number of Ejections = 55
+  Maximum Number of Ejections in a single insertion = 4
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 14000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 9060
+ Average Primary Hits: 1.54525
+  Maximum Hits to a Primary Slot = 10
+  Total Number of Ejections = 220
+  Maximum Number of Ejections in a single insertion = 6
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 14000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 9139
+ Average Primary Hits: 1.5319
+  Maximum Hits to a Primary Slot = 6
+  Total Number of Ejections = 188
+  Maximum Number of Ejections in a single insertion = 7
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 14000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 9175
+ Average Primary Hits: 1.52589
+  Maximum Hits to a Primary Slot = 7
+  Total Number of Ejections = 207
+  Maximum Number of Ejections in a single insertion = 5
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 14000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 9111
+ Average Primary Hits: 1.5366
+  Maximum Hits to a Primary Slot = 11
+  Total Number of Ejections = 176
+  Maximum Number of Ejections in a single insertion = 7
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 14000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 9103
+ Average Primary Hits: 1.53795
+  Maximum Hits to a Primary Slot = 11
+  Total Number of Ejections = 216
+  Maximum Number of Ejections in a single insertion = 8
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 14000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 9131
+ Average Primary Hits: 1.53324
+  Maximum Hits to a Primary Slot = 10
+  Total Number of Ejections = 199
+  Maximum Number of Ejections in a single insertion = 8
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 14000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 9109
+ Average Primary Hits: 1.53694
+  Maximum Hits to a Primary Slot = 8
+  Total Number of Ejections = 201
+  Maximum Number of Ejections in a single insertion = 5
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 14000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 9184
+ Average Primary Hits: 1.52439
+  Maximum Hits to a Primary Slot = 6
+  Total Number of Ejections = 180
+  Maximum Number of Ejections in a single insertion = 3
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 14000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 9089
+ Average Primary Hits: 1.54032
+  Maximum Hits to a Primary Slot = 11
+  Total Number of Ejections = 183
+  Maximum Number of Ejections in a single insertion = 7
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 14000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 9163
+ Average Primary Hits: 1.52788
+  Maximum Hits to a Primary Slot = 12
+  Total Number of Ejections = 245
+  Maximum Number of Ejections in a single insertion = 8
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 15490
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 9410
+ Average Primary Hits: 1.64612
+  Maximum Hits to a Primary Slot = 27
+  Total Number of Ejections = 539
+  Maximum Number of Ejections in a single insertion = 20
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 16000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 9678
+ Average Primary Hits: 1.65323
+  Maximum Hits to a Primary Slot = 15
+  Total Number of Ejections = 764
+  Maximum Number of Ejections in a single insertion = 9
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 16000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 9689
+ Average Primary Hits: 1.65136
+  Maximum Hits to a Primary Slot = 14
+  Total Number of Ejections = 718
+  Maximum Number of Ejections in a single insertion = 14
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 16000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 9559
+ Average Primary Hits: 1.67382
+  Maximum Hits to a Primary Slot = 9
+  Total Number of Ejections = 674
+  Maximum Number of Ejections in a single insertion = 9
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 16000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 9632
+ Average Primary Hits: 1.66113
+  Maximum Hits to a Primary Slot = 12
+  Total Number of Ejections = 733
+  Maximum Number of Ejections in a single insertion = 8
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 16000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 9526
+ Average Primary Hits: 1.67961
+  Maximum Hits to a Primary Slot = 12
+  Total Number of Ejections = 704
+  Maximum Number of Ejections in a single insertion = 8
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 16000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 9574
+ Average Primary Hits: 1.67119
+  Maximum Hits to a Primary Slot = 12
+  Total Number of Ejections = 699
+  Maximum Number of Ejections in a single insertion = 7
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 16000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 9599
+ Average Primary Hits: 1.66684
+  Maximum Hits to a Primary Slot = 10
+  Total Number of Ejections = 704
+  Maximum Number of Ejections in a single insertion = 10
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 16000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 9596
+ Average Primary Hits: 1.66736
+  Maximum Hits to a Primary Slot = 11
+  Total Number of Ejections = 712
+  Maximum Number of Ejections in a single insertion = 9
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 16000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 9657
+ Average Primary Hits: 1.65683
+  Maximum Hits to a Primary Slot = 15
+  Total Number of Ejections = 719
+  Maximum Number of Ejections in a single insertion = 11
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 17967
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 9941
+ Average Primary Hits: 1.80736
+  Maximum Hits to a Primary Slot = 22
+  Total Number of Ejections = 2728
+  Maximum Number of Ejections in a single insertion = 20
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 17145
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 9776
+ Average Primary Hits: 1.75378
+  Maximum Hits to a Primary Slot = 14
+  Total Number of Ejections = 1503
+  Maximum Number of Ejections in a single insertion = 20
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 18000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 9815
+ Average Primary Hits: 1.83393
+  Maximum Hits to a Primary Slot = 21
+  Total Number of Ejections = 2822
+  Maximum Number of Ejections in a single insertion = 16
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 17798
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 9825
+ Average Primary Hits: 1.8115
+  Maximum Hits to a Primary Slot = 23
+  Total Number of Ejections = 2392
+  Maximum Number of Ejections in a single insertion = 20
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 16457
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 9680
+ Average Primary Hits: 1.7001
+  Maximum Hits to a Primary Slot = 27
+  Total Number of Ejections = 959
+  Maximum Number of Ejections in a single insertion = 20
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 18000
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 9976
+ Average Primary Hits: 1.80433
+  Maximum Hits to a Primary Slot = 18
+  Total Number of Ejections = 2814
+  Maximum Number of Ejections in a single insertion = 19
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 17097
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 9783
+ Average Primary Hits: 1.74762
+  Maximum Hits to a Primary Slot = 22
+  Total Number of Ejections = 1464
+  Maximum Number of Ejections in a single insertion = 20
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 17420
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 9850
+ Average Primary Hits: 1.76853
+  Maximum Hits to a Primary Slot = 24
+  Total Number of Ejections = 1842
+  Maximum Number of Ejections in a single insertion = 20
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 17674
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 9956
+ Average Primary Hits: 1.77521
+  Maximum Hits to a Primary Slot = 17
+  Total Number of Ejections = 2077
+  Maximum Number of Ejections in a single insertion = 20
+ 
+
+
+
+Hash Statistics Report: 
+  Randomness level = a little bit random 
+  Capacity = 20101
+  Size = 16957
+  Degree = 7
+  Ejection Limit = 20
+  Number of Primary Slots = 9898
+ Average Primary Hits: 1.71317
+  Maximum Hits to a Primary Slot = 35
+  Total Number of Ejections = 1518
+  Maximum Number of Ejections in a single insertion = 20
+ 
+
+

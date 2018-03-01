@@ -1,0 +1,164 @@
+﻿@ James Morton
+@ CMSC 411 Project F 2017 (sinx, cosx, tanx)
+
+.text
+.global _start
+
+@---------------------------------------------------------------
+@ The starting portion will calculate sin(x), cos(x), and tan(x)
+_start:
+@ setup code - load registers with variables
+        MOV r0, #0                 @ use r0 for i
+        LDR r9, =N                 @ get address of N = 10 iterations
+        LDR r9, [r9]         @ get value of N
+        LDR r1, =z                 @ get address of z
+        LDR r1, [r1]         @ get value of z
+        LDR r2, =theta        @ get address of theta
+        LDR r2, [r2]         @ get value of theta
+        LDR r3, =arctanAngles         @ load r3 with base of arctanAngles
+        MOV r4, #0                 @use r4 for array index
+        LDR r7, =x                 @ get address of x
+        LDR r7, [r7]         @ get value of x
+        LDR r8, =y                 @ get address of y
+        LDR r8, [r8]         @ get value of y
+
+@ loop - add to or subtract from z for 10 iterations
+loop:
+   
+        LDR r5, [r3, r4]         @ get the next angle of rotation
+
+        CMP r1, r2                 @ see if z > theta
+        BGT subtractAngle @ branch to subtract from z if z > theta
+
+        @ addAngle loop - add to z if z < theta
+        VMOV s1, r1         @ move z to fp register
+        VMOV s5, r5         @ move current arctan angle to fp register
+        VADD.F32 s1, s1, s5         @ z + current arctan angle
+        VMOV r1, s1         @ move new z into r1
+
+        @ calculate y * 2^-1
+        LDR r6, =exponent @ get address of exponent
+        LDR r6, [r6]         @ get value of exponent
+        AND r5, r8, r6         @ get the exponent of y and store in r5
+        LSR r5, #23         @ shift to the right to get value of exponent
+        SUB r5, r0                 @ subtract i from the exponent to multiply by 2^-i
+        LSL r5, #23         @ shift back left to place new exponent
+        LDR r6, =zeroexponent         @ get address of zeroexponent
+        LDR r6, [r6]         @ get value of zero exponent
+        AND r6, r8, r6         @ zero out the exponent of y, result in r6
+        ORR r5, r6, r5         @ replace the exponent of y with r5, y * 2^-1 in r5
+        VMOV s5, r5         @ move result into fp register
+
+        VMOV s7, r7                 @ move x into fp register
+        VSUB.F32 s9, s7, s5         @ calculate x_i = x - y * 2^-i, result in s9
+
+        @ calculate x * 2^-1
+        LDR r6, =exponent @ get address of exponent
+        LDR r6, [r6]         @ get value of exponent
+        AND r5, r7, r6         @ get the exponent of x and store in r5
+        LSR r5, #23         @ shift to the right to get value of exponent
+        SUB r5, r0                 @ subtract i from the exponent to multiply by 2^-i
+        LSL r5, #23         @ shift back left to place new exponent
+        LDR r6, =zeroexponent         @ get address of zeroexponent
+        LDR r6, [r6]         @ get value of zero exponent
+        AND r6, r7, r6         @ zero out the exponent of x, result in r6
+        ORR r5, r6, r5         @ replace the exponent of x with r5, x * 2^-1 in r5
+        VMOV s5, r5                 @ move result into fp register
+
+        VMOV s8, r8         @ move y into fp reg
+        VADD.F32 s6, s8, s5         @ calculate y_i = y + x * 2^-i, result in s6
+
+        @ set x and y equal to x_i and y_i
+        VMOV r7, s9         @ move value of x_i to r7
+        VMOV r8, s6         @ move value of y_i to r8
+        B nextLoop                 @ go to setup for next iteration
+
+@ subtract from z if z > theta
+subtractAngle:
+
+        VMOV s1, r1         @ move z to fp register
+        VMOV s5, r5         @ move current arctan angle to fp register
+        VSUB.F32 s1, s1, s5         @ z - current arctan angle
+        VMOV r1, s1         @ move new z into r1 
+
+        @ calculate y * 2^-1
+        LDR r6, =exponent @ get address of exponent
+        LDR r6, [r6]         @ get value of exponent
+AND r5, r8, r6         @ get the exponent of y and store in r5
+        LSR r5, #23         @ shift to the right to get value of exponent
+        SUB r5, r0                 @ subtract i from the exponent to multiply by 2^-i
+        LSL r5, #23         @ shift back left to place new exponent
+        LDR r6, =zeroexponent         @ get address of zeroexponent
+        LDR r6, [r6]         @ get value of zero exponent
+        AND r6, r8, r6         @ zero out the exponent of y, result in r6
+        ORR r5, r6, r5         @ replace the exponent of y with r5, y * 2^-1 in r5
+        VMOV s5, r5         @ move result into fp register
+
+        VMOV s7, r7                 @ move x into fp reg
+        VADD.F32 s9, s7, s5         @ calculate x_i = x + y * 2^-i, result in s9
+
+        @ calculate x * 2^-1
+        LDR r6, =exponent @ get address of exponent
+        LDR r6, [r6]         @ get value of exponent
+        AND r5, r7, r6         @ get the exponent of x and store in r5
+        LSR r5, #23         @ shift to the right to get value of exponent
+        SUB r5, r0                 @ subtract i from the exponent to multiply by 2^-i
+        LSL r5, #23         @ shift back left to place new exponent
+        LDR r6, =zeroexponent         @ get address of zeroexponent
+        LDR r6, [r6]         @ get value of zero exponent
+        AND r6, r7, r6         @ zero out the exponent of x, result in r6
+        ORR r5, r6, r5         @ replace the exponent of x with r5, x * 2^-1 in r5
+        VMOV s5, r5          @ move result into fp register
+
+        VMOV s8, r8         @ move y into fp reg
+        VSUB.F32 s6, s8, s5         @ calculate y_i = y - x * 2^-i, result in s9
+
+        @ set x and y equal to x_i and y_i
+VMOV r7, s9         @ move value of x_i to r7
+        VMOV r8, s6         @ move value of y_i to r8
+
+
+@ setup for next iteration
+nextLoop:
+        ADD r4, r4, #4         @ add one word offset to array index
+        ADD r0, r0, #1         @ i++
+        CMP r0, r9                 @ compare i with N=10
+        BLT loop                 @ loop if i<10
+
+        VMOV s8, r8
+        VMOV s7, r7
+        VDIV.F32 s6, s8, s7           @Calculate tan by tan = sin/cos
+
+        VMOV r6, s6         @ Move tan value into register
+
+        @ store sin(theta) and cos(theta) in memory
+        LDR r0, =sin_x         @ get address of sin_x
+        LDR r1, =cos_x         @ get address of cos_x
+        LDR r2, =tan_x         @ get address of tan_x
+        STR r8, [r0]         @ store r8 in sin_x
+        STR r7, [r1]         @ store r7 in cos_x
+        STR r6, [r2]         @ store r6 in tan_x
+
+exit:        
+        SWI 0x11
+
+@---------------------------------------------------------------------------
+.data
+
+        @All important values for calculating sin(x), cos(x), and tan(x)
+        N: .word 10                 @ number of loops
+           exponent: .word 0x7F800000 @ used to get exponent of x and y
+           zeroexponent: .word 0x807FFFFF @ used to clear exponent of x and y
+           theta:.single 75.0         @ the angle to calculate
+           x:.single 0.6072529         @ x = 1/K factor
+           y: .single 0.0                 @ y initially 0
+           z: .single 0.0                 @ angle to be rotated, z initialy 0
+           arctanAngles: .single 45.0, 26.6, 14.0, 7.1 @ angles computed from arctan(2^-i)
+           .single 3.6, 1.8, .9, .4
+           .single .2, .1
+
+           sin_x: .single 0.0         @ result of sin(theta)
+           cos_x: .single 0.0         @ result of cos(theta)
+           tan_x: .single 0.0         @ result of tan(theta)
+
+.end

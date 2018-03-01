@@ -1,0 +1,239 @@
+﻿@ CMSC 411, Project F 2017 (e^x, sinh, cosh, tanh)
+
+
+.text
+.global _start
+
+
+@--------------------------------------------------------
+@ Calculate e^x 
+_start:
+        @Setup - load registers
+        MOV r0, #0                         @ use as incrementer 
+
+
+        LDR r9, =N2                 @ gets address of 11 iterations
+        LDR r9, [r9]                 @ acquire the value 11        
+
+
+        LDR r1, =x2                        @ get the value you want to have checked
+        LDR r1, [r1]                @ get value that you want to check
+
+
+        LDR r3, =values         @ load base of values
+        MOV r4, #0                         @ use r4 for array index
+
+
+        LDR r7, =D2                        @ get address/value of largest exponent in lookup table
+        LDR r7, [r7]
+
+
+        LDR r8, =z2                        @ get address/value of z
+        LDR r8, [r8]        
+        VMOV s8, r8
+
+
+@ loop - subtract values from z when needed 
+@ and add up the corresponding values of x
+loop:        
+        LDR r5, [r3, r4]         @ Grab the value to be of x to be checked in values array        
+        
+        CMP r1, r5                        @ if x > values[i] 
+        BGE addValue                 @ branch to subtract from x and add to final result
+
+
+        B nextLoop
+
+
+@ changes the end result (z) and decreases the given x value
+addValue:
+
+
+        @ This block performs x = x - values[i]
+        VMOV s1, r1                        @ move x to fp register
+        VMOV s5, r5                        @ move values[i] into fp register
+        VSUB.F32 s1, s1, s5        @ get the new x value after subtracting        
+        VMOV r1, s1                 @ move new x value into r1
+
+
+        @ This block calculates z = z * 2^i
+        LDR r6, =exponent2         @ load r6 with exponent address/value
+        LDR r6, [r6]
+
+
+        @ If the exponent tracker is negative now.Branch to subtract method
+        CMP r7, #0
+        BLT subtract
+
+
+        @ This subsection adds the current power of 2 of e^x to the exponent 
+        AND r5, r8, r6                @ get the exponent of z and store into r5
+        LSR r5, #23                 @ shift right to get value of exponent
+        ADD r5, r5, r7                @ add current 2^x power to the exponent
+        LSL r5, #23                        @ shift exponent back to place new exponent
+
+
+        LDR r6, =zeroExponent2        @ get address/value of zero exponent
+        LDR r6, [r6]                
+
+
+        AND r6, r8, r6                 @ zero out the exponent in z
+        ORR r5, r6, r5                @ replace the exponent with z
+        VMOV s5, r5                        @ move result into fp register 
+
+
+        VADD.F32 s8, s8, s5        @ add s5 into s8 to add up the answer
+
+
+        B nextLoop                         @ setup for next iteration
+
+
+
+
+@ This is only utilized when the algorithm is dealing with 2^-x
+subtract:
+
+
+        LDR r6, =divOpVals
+        LDR r5, [r6, r2]
+        VMOV s5, r5
+        VDIV.F32 s9, s8, s5
+        VADD.F32 s8, s8, s9
+
+
+        B nextLoop                         @ setup for next iteration
+
+
+nextLoop:
+
+
+        ADD r4, r4, #4                 @ add one word offset to array index
+        ADD r0, r0, #1                 @ i++
+
+
+        SUB r7, #1                        @ Decrement from exponent decrementer
+        
+        CMP r7, #0
+        BEQ negativeSwitch        
+
+
+        ADD r2, #4
+
+
+        CMP r0, r9                         @ if i < N
+        BLT loop                         @ loop if i < N
+
+
+        B storeResult                @ Exit if loop is done
+
+
+@ Decreases exponent adder to -1 from 0. We just skip it.
+negativeSwitch:
+
+
+        @Subtract one from the end result to update from starting value.
+        LDR r6, =one
+        LDR r6, [r6]
+        VMOV s1, r6
+        VSUB.F32 s8,s8,s1
+        
+        MOV r2, #0                        @Separate incrementer for divide values
+
+
+        SUB r7, #1                        @ Decrease exponent past 0 straight to -1
+        CMP r0, r9                        @ Loop if the increment loops isnt matched
+        BLT loop
+
+
+@ Store result of e^x
+storeResult:
+        VMOV r8, s8
+
+
+        LDR r0, =e_x
+        STR r8, [r0]                @ Store the end result into e_x
+                
+@--------------------------------------------------------
+@ Using result of e^x, calculate sinh, cosh, and tanh                
+calculateNegEX:
+        
+        @ using the result of e^x, calculate e^(-x)
+        LDR r2, =one                @ load integer 1 for floating point division
+        LDR r2, [r2]
+        VMOV s7, r2
+        VDIV.F32 s6, s7, s8        @ divide e^x by 1 and store in s6
+        
+calculateSinh:
+        
+        @ using (e^x - e^-x / 2) calculate sinh
+        VSUB.F32 s2, s8, s6 @ subtract e^x and e^-x
+        MOV r2, #0
+        LDR r2, =two                 @ load integer 2 for floating point division
+        LDR r2, [r2]
+        VMOV s3, r2
+        VDIV.F32 s4, s2, s3        @ divide difference by two
+        VMOV r2, s4                        @ store result in r2
+        
+        @ store sinh in memory (address in r4)
+        MOV r4, #0
+        LDR r4, =sinh
+        STR r2, [r4]
+        
+calculateCosh:
+        
+        @ using (e^x + e^-x / 2) calculate cosh
+        VADD.F32 s5, s8, s6        @ add e^x and e^-x
+        VDIV.F32 s6, s5, s3        @ divide sum by 2
+        MOV r2, #0
+        VMOV r2, s6                        @ store result in r2
+        
+        @ store cosh in memory (address in r5)
+        MOV r5, #0 
+        LDR r5, =cosh 
+        STR r2, [r5]
+        
+calculateTanh:
+        
+        @ using (sinh/cosh) calculate tanh
+        VDIV.F32 s1, s4, s6        @ divide sinh by cosh
+        MOV r2, #0
+        VMOV r2, s1        @ store result in r2
+        
+        @ store tanh in memory (address in r6)
+        MOV r6, #0
+        LDR r6, =tanh
+        STR r2, [r6]
+        
+exit:
+        
+        SWI 0x11
+
+
+@Data Section
+.data                 
+
+
+        @All important values for calculating e^x
+    N2: .word 17                                 @ Number of loops to perform
+    D2: .word 10                                 @ Number to decrement to check for # of shifts
+    exponent2: .word 0x7F800000 @ used to get exponent of z
+    zeroExponent2: .word 0x807FFFFF @used to clear exponent of z
+    one: .single 1.0
+    x2: .single 3.1754                         @ the value of e^x, sinh, cosh, and tanh to calculate 
+    z2: .single 1.0                         @ Value being added to correct value of e^x 
+
+
+    @ values computed by e^x for powers of 2
+    values: .single 6.9315, 6.2383, 5.5452, 4.852, 4.1589, 3.4657, 2.7726, 2.0794
+            .single 1.3863, .6931, .4055, .2231, .1178, .0606, .0308, .0155, .0078
+
+
+    divOpVals: .single 2.0, 4.0, 8.0, 16.0, 32.0, 64.0, 128.0        
+    e_x: .single 0.0                         @ result of e^x
+        
+        @ All important values for sinh, cosh, and tanh
+        two: .single 2.0
+        pose_x: .single 0.0                 @ end result of e^x
+        sinh: .single 0.0                         @ hyperbolic sine
+        cosh: .single 0.0                         @ hyperbolic cosine
+        tanh: .single 0.0                         @ hyperbolic tangent
