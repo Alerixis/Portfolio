@@ -4,7 +4,7 @@ Hello! Thank you for visiting my personal working portfolio. I will be adding to
 
 Any of the projects save for the TrigonometricAssemblyCalculator and the TankProjectScripts contain Makefiles or are easy to run with a simple command. It should be simple to pull those down and run them with any of the included test scripts in Linux. 
 
-I've also begun solving various LeetCode problems in my spare time and uploaded those solutions to a public Git Repository here: github.com/Alerixis/LeetCodeProblems
+I've also begun solving various LeetCode problems in my spare time and uploaded those solutions to a public Git Repository here: https://github.com/Alerixis/LeetCodeProblems
 
 **AVLTreeProject: C++** 
 
